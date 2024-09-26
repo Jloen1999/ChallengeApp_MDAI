@@ -9,5 +9,4 @@ public class Mdai2425Application{
         SpringApplication.run(Mdai2425Application.class, args);
     }
 
-
 }
